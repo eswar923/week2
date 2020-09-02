@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html>
+<body>
+<p id="demo"></p>
+
+<script>
+var sen1 = "c language";
+var sen2 = "hello world";
+var sen3 = "compile";
+
+document.getElementById("demo").innerHTML =
+sen1 + "<br>" + 
+sen2 + "<br>" + 
+sen3;
+</script>
+
+</body>
+</html>
