@@ -1,0 +1,7 @@
+<html>
+       <head>
+	Browser Application Programming Interfaces (APIs) built into web browsers, providing functionality such as dynamically creating HTML and setting CSS styles; collecting and manipulating a video stream from a user's webcam, or generating 3D graphics and audio samples.
+Third-party APIs that allow developers to incorporate functionality in sites from other content providers, such as Twitter or Facebook.
+Third-party frameworks and libraries that you can apply to HTML to accelerate the work of building sites and applications. To give you a better understanding of how JavaScript works, let's explain some of the core features of the language. It's worth noting that these features are common to all programming languages. If you master these fundamentals, you have a head start on coding in other languages too!
+	</head>
+	</html>
