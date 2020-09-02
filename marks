@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html>
+<head>
+<style>
+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+tr:nth-child(even) {
+  background-color: #dddddd;
+}
+</style>
+</head>
+<body>
+<p id="demo"></p>
+<script>
+maths= 83;
+physics= 75;
+chemistry= 96;
+total=maths + physics + chemistry
+
+document.getElementById("demo").innerHTML =total ;
+ avg = total/3
+document.getElementById("demo").innerHTML =avg ;
+</script>
+<p>avg</p>
+
+
+<table>
+  <tr>
+    <th>subjects</th>
+    <th>marks</th>
+    
+  </tr>
+  <tr>
+    <td><strong>M1</strong></td>
+    <td>83</td>
+    
+  </tr>
+  <tr>
+    <td><strong>Physics</strong></td>
+    <td>75</td>
+    
+  </tr>
+  <tr>
+    <td><strong>chemistry</strong></td>
+    <td>96</td>
+  </tr>
+  <tr>
+      <td><strong>Total</strong></td>
+         <td>254</td>
+   </tr>
+
+</table>
+
+
+</body>
+</html>
