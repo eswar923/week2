@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+	<body>
+		<p id="demo"></p>
+<script>
+var price1 = 38;
+var price2 = 24;
+var total = price1 + price2;
+document.getElementById("demo").innerHTML =
+"The total is: " + total;
+</script>
+</body>
+</html>
+
